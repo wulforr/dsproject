@@ -1,0 +1,13 @@
+Hello there!!!
+Welcome to the QUIZ...
+Follow the steps to proceed in the game:
+1.Choose a category
+2.5 questions will be displayed one by one with 4 options.
+3.Correctly answers those questions in minimum time to score the highest!
+4.Score is calculated on the basis of ---
+	a)No. of questions answered correctly.
+	b)Time taken to answer the question.
+5.No negative marking for wrong answers.
+6.You can see your responses and the score at the end of the game.
+
+Enjoy!!!
